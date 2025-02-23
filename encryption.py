@@ -2,7 +2,7 @@ import cv2
 import os
 
 # Load cover image
-img = cv2.imread("mypic.jpg")  # Ensure this image exists in your working directory
+img = cv2.imread("nature.jpg")  # Ensure this image exists in your working directory
 if img is None:
     print("Cover image not found!")
     exit()
@@ -11,7 +11,7 @@ if img is None:
 msg = input("Enter secret message: ")
 password = input("Enter a passcode: ")
 
-# Save the password to a file (for demonstration purposes only)
+# Save the password to a file 
 with open("pass.txt", "w") as f:
     f.write(password)
 
