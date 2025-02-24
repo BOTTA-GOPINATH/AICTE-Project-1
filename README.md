@@ -15,5 +15,6 @@ OpenCV
 
 Install via pip:
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+```sh
+pip install opencv-python
 
