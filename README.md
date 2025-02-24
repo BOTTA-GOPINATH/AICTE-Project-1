@@ -14,5 +14,6 @@ Python 3.x
 OpenCV
 
 Install via pip:
-
+'''
 pip install opencv-python
+'''
