@@ -15,5 +15,5 @@ OpenCV
 
 Install via pip:
 
-Link to the sample section: [Link Text](#sample-section).
+This site was built using [GitHub Pages](https://pages.github.com/).
 
