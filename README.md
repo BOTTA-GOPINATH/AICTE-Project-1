@@ -15,5 +15,5 @@ OpenCV
 
 Install via pip:
 '''
-pip install opencv-python
+## pip install opencv-python
 '''
