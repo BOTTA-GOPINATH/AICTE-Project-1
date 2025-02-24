@@ -8,4 +8,11 @@ Embed a secret text message into a cover image. The program writes each characte
 Decryption:
 Retrieve the hidden message from the modified image by providing the correct passcode and the message length.
 
+# Requirements
+Python 3.x
 
+OpenCV
+
+Install via pip:
+
+pip install opencv-python
