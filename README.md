@@ -15,5 +15,5 @@ OpenCV
 
 Install via pip:
 
-url(pip install opencv-python)
+Link to the sample section: [Link Text](#sample-section).
 
